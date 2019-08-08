@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.openapi.parse.javadoc
+---
+testFramework: junit
+sourceLanguage: java
